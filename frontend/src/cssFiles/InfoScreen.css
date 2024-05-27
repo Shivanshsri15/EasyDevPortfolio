@@ -1,0 +1,13 @@
+/* InfoScreen.css */
+
+.infoImg {
+  width: 10rem;
+}
+
+@media screen and (max-width: 768px) {
+  .infoImg {
+    padding-top: 2rem;
+    width: 8rem;
+    height: 8rem;
+  }
+}
